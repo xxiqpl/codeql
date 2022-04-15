@@ -1,0 +1,4 @@
+name: work4java
+version: 0.0.0
+dependencies:
+  codeql/java-queries: "*"

@@ -1,0 +1,4 @@
+- description: Security-and-quality queries for Java
+- queries: .
+- apply: scan4sec/security-and-quality-selectors.yml
+  from: work4java
