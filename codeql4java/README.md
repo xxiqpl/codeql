@@ -24,10 +24,11 @@ codeql database analyze --ram=8000 --threads=8 --format=sarif-latest --output=sa
 
 - https://github.com/githubsatelliteworkshops/codeql/releases/download/v1.0/apache_struts_cve_2017_9805.zip
 - https://github.com/githubsatelliteworkshops/codeql/blob/master/java.md
-
 - https://github.com/github/vscode-codeql-starter
 - https://github.com/github/codeql-cli-binaries/releases
 - https://codeql.github.com/docs/codeql-cli/manual/
 - https://paper.seebug.org/1078/
 - https://securitylab.github.com/research/apache-struts-CVE-2018-11776/
 - https://github.com/github/codeql
+- https://kiprey.github.io/2020/12/CodeQL-setup/
+- https://lgtm.com/
