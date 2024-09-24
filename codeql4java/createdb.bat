@@ -1,0 +1,1 @@
+codeql database create jv-db --language=java --overwrite -c "mvn clean install -f pom.xml -Dmaven.test.skip=true" -v

@@ -1,0 +1,1 @@
+codeql database analyze --ram=8000 --threads=8 --format=sarif-latest --output=java-security-and-quality.sarif jv_db ..\..\ql\java\ql\src\codeql-suites\java-security-and-quality.qls

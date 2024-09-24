@@ -1,0 +1,1 @@
+codeql database create py_db --language=python --overwrite --source-root=py

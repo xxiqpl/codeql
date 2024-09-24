@@ -1,0 +1,1 @@
+codeql database create js_db --language=javascript --overwrite --source-root=js

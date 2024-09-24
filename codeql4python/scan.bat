@@ -1,0 +1,1 @@
+codeql database analyze --ram=8000 --threads=8 --format=sarif-latest --output=javascript-security-and-quality.sarif py_db ..\..\ql\python\ql\src\codeql-suites\javascript-security-and-quality.qls
